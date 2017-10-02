@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\PRIYANKA\AndroidStudioProjects\SDCard\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7dd87165dcefd5cf04456515462024a49195f9f2">
+        <dex dex="C:\Users\PRIYANKA\AndroidStudioProjects\SDCard\app\build\intermediates\pre-dexed\debug\instant-run-bootstrap_792ae8c4645af0eac17150d0a550682e3841cf60.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\PRIYANKA\AndroidStudioProjects\SDCard\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e79aa3d9a16f8c9f16377c0608de70a8f31e5d80">
+        <dex dex="C:\Users\PRIYANKA\AndroidStudioProjects\SDCard\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-25.1.0_2cc74dbb27aaeb3d852306001b87934242b3972d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\PRIYANKA\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.1.0\support-annotations-25.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="64cb6b229a8bdfd907bc8dd46839a0053e4c018d">
+        <dex dex="C:\Users\PRIYANKA\AndroidStudioProjects\SDCard\app\build\intermediates\pre-dexed\debug\support-annotations-25.1.0_beb441309894020db3d9b8b82a1d6d7ed74e4d9f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\PRIYANKA\AndroidStudioProjects\SDCard\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f02263e35e52668dd17b73bf961437e3d562b35f">
+        <dex dex="C:\Users\PRIYANKA\AndroidStudioProjects\SDCard\app\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-25.1.0_381358835b04d375538a164f2174ddf6d107b47c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\PRIYANKA\AndroidStudioProjects\SDCard\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ca3c7aa31e2726a400a6e552b93cb9f63c9a1e6d">
+        <dex dex="C:\Users\PRIYANKA\AndroidStudioProjects\SDCard\app\build\intermediates\pre-dexed\debug\com.android.support-support-compat-25.1.0_07d9df8719c8148ed7b2c05dab6b5041350f3942.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\PRIYANKA\AndroidStudioProjects\SDCard\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6fd91a110ca2133db90996523336d15ac07c193d">
+        <dex dex="C:\Users\PRIYANKA\AndroidStudioProjects\SDCard\app\build\intermediates\pre-dexed\debug\instant-run_a8d95dabe26cb3ddf2bc323539abe6837d45e995.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\PRIYANKA\AndroidStudioProjects\SDCard\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\PRIYANKA\AndroidStudioProjects\SDCard\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-25.1.0_87ce02a9e04c50108ddf9273fcf9d39cf362d08c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\PRIYANKA\AndroidStudioProjects\SDCard\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="aee64634871d88a419d59eb743c1258a60f19700">
+        <dex dex="C:\Users\PRIYANKA\AndroidStudioProjects\SDCard\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-25.1.0_0fdabbd587337f2cc8753ecf235868236cfb0286.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\PRIYANKA\AndroidStudioProjects\SDCard\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1630658fbc2d222b988603c27b4a4249586fbfe7">
+        <dex dex="C:\Users\PRIYANKA\AndroidStudioProjects\SDCard\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-25.1.0_2c30733cc1b312beb35f49f849a1e7ca1e957880.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\PRIYANKA\AndroidStudioProjects\SDCard\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0a0ef86b7fa568a52bf6214a0326ca1f1d618da7">
+        <dex dex="C:\Users\PRIYANKA\AndroidStudioProjects\SDCard\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-25.1.0_7b278ab6cc90a77cb641d8feeedf2a1775674f34.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\PRIYANKA\AndroidStudioProjects\SDCard\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2a53c4f3518116b8c6aee0e477233f0f7da8616f">
+        <dex dex="C:\Users\PRIYANKA\AndroidStudioProjects\SDCard\app\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-25.1.0_337d7f464607f8b8fb0bff7d9c4464f2c66e392c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\PRIYANKA\AndroidStudioProjects\SDCard\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6fb6ac3e8d3b9013819920d9ea11f3803c4c0033">
+        <dex dex="C:\Users\PRIYANKA\AndroidStudioProjects\SDCard\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-25.1.0_e072f776ebef22f4982c399260942468e061e0d5.jar" />
+    </item>
+
+</items>
